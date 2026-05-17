@@ -1,8 +1,6 @@
-<img width="951" height="504" alt="image" src="https://github.com/user-attachments/assets/c4dc50ba-075d-43bd-a793-c2c57f3ac068" /># Homely-Hub Web Application
-
 HomelyHub is a web application built with the MERN stack that connects travelers with unique homestay experiences, offering a more authentic and immersive travel experience.
 
-<img width="951" height="504" alt="image" src="https://github.com/user-attachments/assets/f7d7d7e2-52b9-412c-9aac-9acb0bf6542e" />
+<img width="1613" height="515" alt="image" src="https://github.com/user-attachments/assets/1548bde8-284d-4acc-b048-535aa4f77184" />
 
 ### Project Description
 
@@ -27,7 +25,8 @@ Technology Stack
 
 **Architecture & Design**
 
-![MERN-Stack-Development](https://github.com/darshan2332/Homely-Hub-Web-Application/assets/146100584/6268a705-57df-421b-9915-0538e24fa720)
+<img width="1432" height="941" alt="image" src="https://github.com/user-attachments/assets/2855e448-0445-46eb-b731-1c177e0cce1a" />
+
 
 ### Technology Stack
 - Comprehensive Framework: The architecture of HomelyHub is built on a technology stack 
